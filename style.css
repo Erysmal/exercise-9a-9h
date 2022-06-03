@@ -79,7 +79,7 @@ h1 {
 }
 .p-happening {
   display: inline-block;
-  vertical-align: middle;
+  vertical-align:bottom;
   margin-left:5px;
 }
 .sub-button {
@@ -88,7 +88,7 @@ h1 {
   margin-left:30px;
   border-radius:15px;
   border-style:none;
-  padding:5px 12px;
+  padding:3px 12px;
   background-color:#4f86f7;
   color: white;
 }
