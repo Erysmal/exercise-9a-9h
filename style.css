@@ -24,7 +24,7 @@ h1 {
   margin-right:auto;
 }
 .green-box {
-  background-color: green;
+  background-color: green;mmargin: ;
   border-radius:100px;
   width: 180px;
   height: 180px;
@@ -94,6 +94,7 @@ h1 {
 }
 /***** 9f*****/
 .small-contain {
+  display: inline-block;
   margin-left:15px;
   width: 100px;
   height:180px;
@@ -134,10 +135,6 @@ h1 {
   margin-bottom:5px;
 }
 /**** 9g*****/
-.row-container {
-  display: flex;
-}
-/**** 9h ****/
 .google-container {
   text-align: center;
   margin:0 auto;
